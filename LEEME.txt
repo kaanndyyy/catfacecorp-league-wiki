@@ -1,0 +1,22 @@
+ENCICLOPEDIA VISUAL DE LEAGUE OF LEGENDS
+Hecho por CatFaceCorp. ©
+
+Abre index.html en tu navegador para consultar la web sin instalar dependencias.
+Mantén juntos index.html, app.js, data.js, styles.css, fonts.css y la carpeta assets.
+En este modo, las rutas aparecen después del símbolo #.
+
+Para usar rutas como /campeones/ahri, ejecuta iniciar.py con Python 3 y abre:
+http://127.0.0.1:8765/
+
+El sitio contiene una copia del documento de la enciclopedia. No consulta servicios
+externos para responder las búsquedas ni genera respuestas con inteligencia artificial.
+Los textos, cifras, advertencias y fuentes se han trasladado del documento sin una
+nueva investigación. Las referencias externas se abren solo al pulsarlas.
+
+El documento sigue siendo la fuente editorial. Esta web es una edición local:
+los cambios posteriores en Google Docs requieren volver a importar el documento.
+No se ha publicado en Internet.
+
+Las ilustraciones e iconos del juego proceden de los recursos de Riot Games.
+Las fuentes tipográficas se distribuyen mediante Google Fonts.
+Los recursos visuales conservan sus titulares y licencias originales.
